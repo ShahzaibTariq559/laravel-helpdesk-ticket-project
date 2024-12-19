@@ -12,8 +12,10 @@ Run Composer update
 ```bash
 php artisan migrate
 ```
-npm I
-npm run dev
+```bash
+run npm i
+run npm run dev
+```
 
 ```bash
 php artisan serve
