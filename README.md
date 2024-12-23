@@ -67,6 +67,8 @@ Run the following command to install all the necessary dependencies:
 composer install
 composer update
 cp .env.example .env
+npm i
+npm run build
 
 
 DB_CONNECTION=mysql
