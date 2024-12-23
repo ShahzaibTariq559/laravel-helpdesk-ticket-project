@@ -4,7 +4,7 @@ This project is a **PHP Laravel**-based support ticket system with an admin pane
 
 ## Demo Link
 
-There is no live demo available. However, you can run the project locally by following the installation instructions below.
+Here is its demo link "https://laravel-support-ticket-panel.choicetechai.com/". However, you can run the project locally by following the installation instructions below.
 
 ## Table of Contents
 
