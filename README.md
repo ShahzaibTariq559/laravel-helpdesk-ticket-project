@@ -48,7 +48,7 @@ To run the Laravel Support Ticket System on your local machine, follow these ste
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/laravel-support-ticket-system.git
+   git clone https://github.com/shahzaibtariq559/laravel-support-ticket-system.git
 
 2. Navigate to the Project Directory
 
